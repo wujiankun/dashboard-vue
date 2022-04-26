@@ -1,5 +1,7 @@
 # dashboard-vue
 
+vue 2.x + ts + vue-router + vuex 项目实例
+
 ## Project setup
 ```
 pnpm install
